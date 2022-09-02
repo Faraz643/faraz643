@@ -14,6 +14,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=faraz643&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=faraz643&icon=2&color=12)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=faraz643&label=Profile%20Views&color=0&icon=0&pretty=true" />
+</a>
 
-
+[![](https://visitcount.itsvg.in/api?id=faraz643&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
