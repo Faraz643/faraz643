@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/92649053/188207189-48f3544b-8445-47e1-8415-d92cda03c0f9.png)
 # 💫 About Me:
-🔭 I’m currently working on an E-commerce project<br><br>🌱 I’m currently learning JavaScript, SQL<br><br>💬 Ask me about Python, Flask, SQL, SQLAlchemy, JavaScript, HTML, CSS
+🔭 Crafting web Apps !<br><br>🌱 I’m currently learning JavaScript, SQL<br><br>💬 Ask me about Python, Flask, SQL, SQLAlchemy, JavaScript, HTML, CSS
 
 
 ## 🌐 Socials:
