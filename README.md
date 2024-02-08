@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/92649053/188207189-48f3544b-8445-47e1-8415-d92cda03c0f9.png)
 # 💫 About Me:
-🔭 Crafting web Apps !<br><br>🌱 I’m currently learning Reactjs, NoSQL<br><br>💬 Ask me about Python, Flask, SQL, SQLAlchemy, JavaScript, HTML, CSS, React, Next, Mongo, Gsap
+🔭 Crafting web Apps !<br><br>🌱 I’m currently learning Reactjs, Nextjs<br><br>💬 Ask me about Python, Flask, SQLAlchemy, JavaScript, HTML, CSS, React, Next, Gsap
 
 
 ## 🌐 Socials:
